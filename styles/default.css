@@ -1,20 +1,20 @@
 body 
 {
-	margin: 30px;
-	font-family: courier;
-	background-color: #F0F8FF; 
-	color: #808080;
+  margin: 30px;
+  font-family: courier;
+  background-color: #F0F8FF; 
+  color: #808080;
 }
 h1, h2, h3 
 {
 	color: #808080;
 	padding-top: 20px;
-    	padding-bottom: 20px;
+    padding-bottom: 20px;
 	text-align: center;
 }
 h1 
 {
-	background-color: #E6E6FA;
+		background-color: #E6E6FA;
 }
 main img 
 {
@@ -70,20 +70,48 @@ address
 }
 a:link 
 {
- 	color: purple;
+  color: purple;
 }
 
 a:visited 
 {
-  	color: green;
+  color: green;
 }
 
 a:hover 
 {
-  	color: orange;
+  color: orange;
 }
 
 a:active 
 {
-  	color: white;
+  color: white;
+}
+.topnav 
+{
+	background-color: #E6E6FA;
+	overflow: hidden;
+}
+
+.topnav a 
+{
+	float: left;
+	color: #808080;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	}
+
+.topnav a:hover 
+{
+	background-color: #E6E6FA;
+	color: black;
+}
+
+.topnav a.active 
+{
+	background-color: #E6E6FA;
+	color: black;
+	font-weight: bold;
 }
