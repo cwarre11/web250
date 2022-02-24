@@ -70,12 +70,12 @@ address
 }
 a:link 
 {
-  color: purple;
+  color: blue;
 }
 
 a:visited 
 {
-  color: white;
+  color: purple;
 }
 
 a:hover 
