@@ -7,11 +7,14 @@ body
 }
 h1, h2, h3 
 {
-	background-color: #E6E6FA;
 	color: #808080;
 	padding-top: 20px;
     padding-bottom: 20px;
 	text-align: center;
+}
+h1 
+{
+		background-color: #E6E6FA;
 }
 main img 
 {
