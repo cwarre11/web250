@@ -75,18 +75,14 @@ a:link
 
 a:visited 
 {
-  color: green;
+  color: white;
 }
 
 a:hover 
 {
-  color: orange;
+  color: black;
 }
 
-a:active 
-{
-  color: white;
-}
 .topnav 
 {
 	background-color: #E6E6FA;
