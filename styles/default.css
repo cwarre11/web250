@@ -16,16 +16,8 @@ h1
 {
 		background-color: #E6E6FA;
 }
-main img 
-{
-	width: 25%;
-	height: auto;
-	text-align: center; 
-}
 figure 
 {
-	width: 100%;
-	height: auto;
 	text-align: center;
 	margin: auto;
 }
