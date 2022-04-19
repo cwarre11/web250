@@ -2,7 +2,7 @@
 
 <body>
 <?php
- $myBirthday = "1965-01-21";
+ $myBirthday = "1998-01-29";
  echo age($myBirthday);
   //calculate years of age (input string: YYYY-MM-DD)
   function age($age){
